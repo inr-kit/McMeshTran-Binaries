@@ -52,6 +52,7 @@ This release is tested under Salome_7.4.0. Using other Salome version is not gua
 ----->Behind the value of "Target", add " --module=MCMESHTRAN" or "
 	--module=GEOM,SMESH,PARAVIS,MCMESHTRAN"(with a whitespace in the front). click "OK". Next time you can start McMeshTran with this short-cut link. 
 
+-> Notes: it is found that McMeshTran Windows version is failed in sending data to ParaView. We will fix this later. 
 
 **************************************************************************************
 ********Installation and run McMeshTran on Linux ********
@@ -125,3 +126,5 @@ For more information, you can find in our publications.
 ->Yuefeng Qiu, Lei Lu, Ulrich Fischer, Integrated approach for fusion multi-physics coupled analyses based on hybrid CAD and mesh geometries, Fusion Engineering and Design, Available online 4 July 2015, ISSN 0920-3796, http://dx.doi.org/10.1016/j.fusengdes.2015.06.118.
 
 ->Yuefeng Qiu, Peng Lu, Ulrich Fischer, Pavel Pereslavtsev, Szabolcs Kecskes, A generic data translation scheme for the coupling of high-fidelity fusion neutronics and CFD calculations, Fusion Engineering and Design, Volume 89, Issues 7–8, October 2014, Pages 1330-1335, ISSN 0920-3796, http://dx.doi.org/10.1016/j.fusengdes.2014.02.044.
+
+Have fun!
