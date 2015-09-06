@@ -7,7 +7,7 @@ For any questions related to the use of this software/library you may contact Ul
 **************************************************************************************
 ********Something to know before going on********
 
-This document describes the procedure of installing  binaries. For compiling McMeshTran, please find descriptions on Github repository "McMeshTran-Source". For Using McMeshTran, Please find documents on Github repository "McMeshTran-Docs".
+This document describes the procedure of installing  binaries. For compiling McMeshTran, please find descriptions on Github repository [McMeshTran-Source](https://github.com/inr-kit/McMeshTran-Source). For Using McMeshTran, Please find documents on Github repository [McMeshTran-Docs](https://github.com/inr-kit/McMeshTran-Docs).
 
 This release is tested under Salome_7.4.0. Using other Salome version is not guarantee to work, and might cause error during this process. 
 
